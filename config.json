@@ -1,7 +1,8 @@
 {
-    "source_path": "C:\\Users\\PC\\Desktop\\Export\\wit-evaluation",
+    "source_path": "G:\\GameProjects\\Unity\\2018\\Builds\\wit-evaluation",
     "target_dir": "C:\\Users\\PC\\Desktop\\test",
     "from_index": 1,
     "to_index": 2,
-    "name_format": "{0}wit-evaluation"
+    "name_format": "{0}wit-evaluation",
+    "keep_file": "game.txt"
 }
